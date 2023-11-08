@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-- [Bug Bounties 101](https://whitton.io/articles/bug-bounties-101-getting-started/)
+- [Bug Bounties 101](https://whitton.io/articles/bug-bounties-101-getting-started/) 
 - [The life of a bug bounty hunter](http://www.alphr.com/features/378577/q-a-the-life-of-a-bug-bounty-hunter)
 - [Awesome list of bugbounty cheatsheets](https://github.com/EdOverflow/bugbounty-cheatsheet)
 - [Getting Started - Bug Bounty Hunter Methodology](https://www.bugcrowd.com/blog/getting-started-bug-bounty-hunter-methodology)
